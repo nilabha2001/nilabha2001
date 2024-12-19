@@ -34,9 +34,11 @@ Hi there! I'm Nilabha, a software engineer passionate about coding, automation, 
 
 ---
 
-## 📈 GitHub Stats  
-![Nilabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilabharoy&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilabharoy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+## 🌐 Portfolio  
+Check out my website: [nilabha2001.github.io](https://nilabha2001.github.io/)  
+
+---
+
 
 ---
 
